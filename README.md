@@ -100,8 +100,7 @@ Classes used:
 ---
 
 ### Author
-Made with ☕ & ❤ by **You**  
-(Feel free to add your name!)
+Made with ☕ & ❤ by Mahanth Gowda D  
 
 > "A cup of tea and clean code — best combo ever!"
 
